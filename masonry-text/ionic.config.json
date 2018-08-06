@@ -1,0 +1,7 @@
+{
+  "name": "masonry text",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
